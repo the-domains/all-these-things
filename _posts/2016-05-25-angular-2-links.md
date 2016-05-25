@@ -22,10 +22,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://nodestone.io/angular-2-links'
 title: Angular 2 Links
-datePublished: '2016-05-25T17:39:01.058Z'
-dateModified: '2016-05-25T17:38:42.309Z'
-starred: false
+datePublished: '2016-05-25T17:42:08.398Z'
+dateModified: '2016-05-25T17:42:07.339Z'
 sourcePath: _posts/2016-05-25-angular-2-links.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
